@@ -49,4 +49,5 @@ public class TestHelloWorld {
     var list = Arrays.asList(fixture);
     assertEquals(2025, list.get(0).getYear());
   }
+
 }
